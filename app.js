@@ -26,8 +26,8 @@ app.get('/', (req, res) => {
 app.post('/send', (req, ers) => {
 
     const account = {
-        user: 'e348ae4fef62a3',
-        pass: 'a62987b8f4d5fd'
+        user: 'USER_NAME',
+        pass: 'USER_PASSWORD'
     }
 
     // console.log(account)
